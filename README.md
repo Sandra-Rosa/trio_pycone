@@ -1,6 +1,6 @@
-# Trio Pycone
+# Service Master
 <br/>
-Discover Trio Pynecone, your go-to platform for finding reliable professionals to handle all your home service needs. From plumbers to electricians, cleaners to carpenters, we connect you with skilled experts who ensure top-quality work. With user-friendly features and thorough screening processes, we make it easy for you to book appointments, read reviews, and enjoy peace of mind. Join our community today and experience the convenience of finding trusted professionals for your dream home.
+Discover Service Master, your go-to platform for finding reliable professionals to handle all your home service needs. From plumbers to electricians, cleaners to carpenters, we connect you with skilled experts who ensure top-quality work. With user-friendly features and thorough screening processes, we make it easy for you to book appointments, read reviews, and enjoy peace of mind. Join our community today and experience the convenience of finding trusted professionals for your dream home.
 
 ## Features
 <br/>
@@ -21,8 +21,10 @@ Discover Trio Pynecone, your go-to platform for finding reliable professionals t
 - **Homeowner Community**: Join a community of satisfied homeowners and share experiences and recommendations.
 - **Comprehensive Home Services**: From minor repairs to major renovations, find professionals for all your home service needs.
 
+⚠️Note: Currently we have only developed the landing page
+
 ## Team members
-1. [Sandra M](https://github.com/Sandra-Rose)
+1. [Sandra M A](https://github.com/Sandra-Rose)
 2. [Arjun M S](https://github.com/arjun-ms)
 3. [Abhin Murali](https://github.com/Abhinmurali108)
 4. [Manu Madhav](https://github.com/manumadhav123)
@@ -40,7 +42,7 @@ To run IdeaHive locally, follow these steps:
     - Package Dependencies: Install the required dependencies listed in the requirements.txt file using pip.
     - Database System: Install and configure the appropriate database system (e.g., PostgreSQL, MySQL).
     - Configuration: Modify the project's configuration files according to your environment.
-2. Clone the Repository: `git clone https://github.com/Sandra-Rosa/trio_pycone.git`
+2. Clone the Repository: `git clone https://github.com/Sandra-Rosa/Service_Master.git`
 3. Install Dependencies: `pip install -r requirements.txt`
 4. Build and Run: `pc run`
 
